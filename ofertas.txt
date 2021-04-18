@@ -1,3 +1,5 @@
 Oferta 1: Seguridad baja
 Oferta 2: Seguridad media
 Oferta 3: Seguridad alta
+
+Código descuento 10%: KryptOptics_10
